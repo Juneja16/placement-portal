@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+Client/frontend/node_modules/
+Server/node_modules/
+
+# Environment Variables (DO NOT PUSH THESE)
+.env
+Server/.env
+
+# Build Output
+Client/frontend/dist/
+
+# System Files
+.DS_Store
+Thumbs.db
