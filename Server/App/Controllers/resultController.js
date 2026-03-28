@@ -1,6 +1,6 @@
 import Interview from "../Models/Interview.js";
 import Student from "../Models/Student.js";
-import Result from "../models/Result.js";
+import Result from "../Models/Result.js";
 /* 
 
 Input:

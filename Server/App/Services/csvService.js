@@ -1,5 +1,5 @@
 import { Parser } from "json2csv";
-import Result from "../models/Result.js";
+import Result from "../Models/Result.js";
 
 /*Result
   ↓
