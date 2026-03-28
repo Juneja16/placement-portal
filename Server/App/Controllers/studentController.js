@@ -1,4 +1,4 @@
-
+import Student from "../Models/Student.js";
 
 /* 
 
@@ -20,8 +20,6 @@
      + Filtering (batch)
      + Validation (via schema)
   */
-
-import Student from "../Models/Student";
 
 // CREATE STUDENT
 export const createStudent = async (req, res) => {
