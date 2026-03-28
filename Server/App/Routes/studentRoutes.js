@@ -5,7 +5,7 @@ import {
   updateStudent,
 } from "../Controllers/studentController.js";
 import authMiddleware from "../Middlewares/authMiddleware.js";
-import Student from "../models/Student.js";
+import Student from "../Models/Student.js";
 
 const router = express.Router();
 
